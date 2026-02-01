@@ -3,7 +3,7 @@
 > eCommerce platform built with the MERN stack & Redux.
 
 ## Live Preview Project 
-- Production Link Change due to Heroku Free tire closed, move Heroku to cyclic.sh
+- Production Link Change due to Heroku Free tier closed, move Heroku to cyclic.sh
 [Demo Project](https://fancy-scarf.cyclic.app/)
 
 ## Features
